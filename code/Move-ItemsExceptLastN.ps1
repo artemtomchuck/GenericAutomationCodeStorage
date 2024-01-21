@@ -1,3 +1,5 @@
+# maintained in https://github.com/artemtomchuck/GenericAutomationCodeStorage/blob/main/code/Move-ItemsExceptLastN.ps1
+
 # Moves items (directories, files) from $sourceDirectory to $destinationDirectory.
 # Retains last N items defined in $numberOfLastItemsToKeep. Last N order is alphabetical.
 # Logs result of its work into $logDirectory
